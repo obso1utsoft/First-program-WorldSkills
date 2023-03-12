@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MadSkill</string>
+    <string name="skip">Пропустить</string>
+    <string name="finaly">Завершить</string>
+    <string name="analization">Анализы</string>
+    <string name="notification">Уведомления</string>
+    <string name="monitoring">Мониторинг</string>
+    <string name="discription_analization_slidebar">Экспресс сбор и получение проб</string>
+    <string name="discription_notification_slidebar">Вы быстро узнаете о результатах</string>
+    <string name="discription_monitoring_slidebar">Наши врачи всегда наблюдают за вашими показателями здоровья</string>
+    <string name="login_hello">Добро пожаловать!</string>
+    <string name="login_email">Вход по E-mail</string>
+    <string name="login_button">Далее</string>
+    <string name="login_email_example">example@mail.ru</string>
+    <string name="login_hello_description">Войдите, чтобы пользоваться функциями приложения</string>
+
+</resources>
